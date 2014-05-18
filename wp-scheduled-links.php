@@ -39,9 +39,9 @@ function wpsl_add_meta_box() {
             'high'
 		);
 	}
-    
+
     wp_enqueue_script( 'jquery-ui-datepicker' );
-    wp_enqueue_style( 'jquery-ui-style', 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/smoothness/jquery-ui.css', true);
+    wp_enqueue_style( 'jquery-ui-style', plugins_url('css/jquery-ui.css', __FILE__) );
 }
 
 add_action( 'add_meta_boxes', 'wpsl_add_meta_box' );
