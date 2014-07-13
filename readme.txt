@@ -2,7 +2,7 @@
 Author URI: http://fahmiadib.wordpress.com
 Plugin URI: http://fahmiadib.wordpress.com/wp-scheduled-links/
 Contributors: fahmiadib
-Tags: Scheduled Links
+Tags: links
 Requires at least: 3.3
 Tested up to: 3.9.1
 Stable Tag: 1.01
