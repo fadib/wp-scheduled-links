@@ -5,7 +5,7 @@ Contributors: fahmiadib
 Tags: links
 Requires at least: 3.3
 Tested up to: 3.9.1
-Stable Tag: 1.01
+Stable tag: 1.01
 
 Schedule when link(s) should appear on your post/page
 
